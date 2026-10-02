@@ -1,0 +1,1 @@
+把本週 Case、課堂筆記、組員討論紀錄等放在這個資料夾，然後在 Claude Code 輸入 /case-report。

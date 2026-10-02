@@ -1,0 +1,28 @@
+# Weekly sources and generated reports
+/input/*
+!/input/PUT_WEEKLY_FILES_HERE.txt
+!/input/.gitkeep
+/work/*
+!/work/.gitkeep
+/output/*
+!/output/.gitkeep
+
+# Python environments and caches
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Local settings and credentials
+.env
+.env.*
+!.env.example
+.claude/settings.local.json
+.aws/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
